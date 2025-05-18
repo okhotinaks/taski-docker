@@ -53,7 +53,7 @@ docker compose exec backend python manage.py collectstatic
 docker compose exec backend cp -r /app/collected_static/. /backend_static/static/
 ``` 
 **Проект доступен по адресу:**
-http://localhost:9000/
+http://localhost:8000/
 
 ## Автоматическое развертывание (CI/CD)
 Настроен деплой на сервер через GitHub Actions.
