@@ -7,10 +7,10 @@
 
 **Клонировать репозиторий**
 ```bash
-git clone 
+git clone git@github.com:okhotinaks/taski-docker.git
 ```
 ```bash
-cd kittygram_final
+cd taski-docker
 ```
 **Создать виртуальное окружение**
 ```bash
